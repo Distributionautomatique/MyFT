@@ -1,0 +1,36 @@
+html {
+  background-color: rgb(255, 179, 0);
+  background-image: url("img/Background.jpg") no-repeat center fixed;
+  background-size: cover;
+}
+body {
+  background-color: white;
+  text-shadow: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 800px;
+  margin: 50px auto;
+  padding: 50px;
+  border-radius: 10px;
+}
+h1 {
+  color: rgb(255, 97, 29);
+  text-align: center;
+}
+h2 {
+  color: rgb(255, 187, 0);
+  text-align: center;
+}
+h1:hover {
+  color: rgba(197, 33, 33, 0.813);
+}
+ol {
+  background-color: wheat;
+  border-radius: 5px;
+}
+a {
+  color: rgb(177, 101, 0);
+  border-radius: 5px;
+}
+img {
+  border-radius: 10px;
+}
